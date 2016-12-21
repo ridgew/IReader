@@ -1,0 +1,15 @@
+const.asp文件里设置CHM数据在服务上的目录和Access MDB连接字符串。
+
+iReaderBook2005.mdb的数据库密码为：VISNWORKS
+
+管理文件ireader.asp
+用户名：ib 密码：visn
+
+
+CHM文件在线阅读需要登记书籍，至少指定以下参数：
+1.书籍名称
+2.ISBN
+3.相对路径
+4.首页文件
+5.系统TOC文件相对地址
+6.服务状态为“上线服务中”，则前台列表显示。

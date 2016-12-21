@@ -1,0 +1,13 @@
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+
+body,td,div {font-size:12px;color:#000000;}
+table {border-collapse:collapse;word-break:break-all;}
+a {text-decoration:none;color:#000000;}
+ul,li {list-style-type:none;padding:0px;margin:5px;}
+.folder {display:none;}
+.box {cursor:pointer;}
